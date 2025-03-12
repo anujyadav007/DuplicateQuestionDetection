@@ -134,11 +134,7 @@ Join us in improving duplicate question detection and enhancing user experience 
 
 ---
 
-## Contributors
-- **Gyanbardhan**  
-  GitHub: [Gyanbardhan](https://github.com/Gyanbardhan)
 
-Feel free to contribute or reach out for collaboration!
 
 ---
 
